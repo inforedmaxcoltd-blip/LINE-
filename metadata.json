@@ -1,0 +1,5 @@
+{
+  "name": "LINE 7-Day Compatibility",
+  "description": "Analyze your LINE chat history using Gemini to discover your compatibility score and relationship insights.",
+  "requestFramePermissions": []
+}
